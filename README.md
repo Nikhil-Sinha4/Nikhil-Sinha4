@@ -1,4 +1,5 @@
-##👋About Me
+## 👋About Me
+
 Hey! I'm Nikhil Sinha — a data analyst with a passion for uncovering patterns in messy data and translating them into clear, actionable business insights.
 
 🏢 Currently working as a Junior Data Analyst in Gurgaon
